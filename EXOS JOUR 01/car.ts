@@ -18,7 +18,8 @@ class Voiture {
       console.log(`Kilométrage: ${this.kilometrage} km`);
       console.log('------------------------');
     }
-  
+   
+    
     ajouterKilometres(km: number): void {
       if (km > 0) {
         this.kilometrage += km;
