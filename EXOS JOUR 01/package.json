@@ -1,0 +1,11 @@
+{
+  "name": "mon-projet",
+  "version": "1.0.0",
+  "scripts": {     
+    "build": "tsc car.ts",
+    "start": "npm run build && node car.js"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  }
+}
