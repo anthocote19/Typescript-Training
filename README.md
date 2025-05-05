@@ -1,1 +1,1 @@
-# Typescript-Training
+#  Some exercise of the Typescript Language
